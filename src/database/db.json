@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "/img/productImg/1.jfif",
+      "title": "First banana",
+      "description": "Something !!!",
+      "price": "20"
+    },
+    {
+      "id": "2",
+      "image": "/img/productImg/2.webp",
+      "title": "Second banana",
+      "description": "Something !!!",
+      "price": "30"
+    },
+    {
+      "id": "3",
+      "image": "/img/productImg/3.webp",
+      "title": "3rd banana",
+      "description": "Something !!!",
+      "price": "40"
+    },
+    {
+      "id": "4",
+      "image": "/img/productImg/1.jfif",
+      "title": "4th banana",
+      "description": "Something !!!",
+      "price": "50"
+    }
+  ]
+}
