@@ -16,6 +16,10 @@ function Navbar() {
             href: '/store',
             title: 'store'
         },
+        {
+            href: '/cart',
+            title: 'cart'
+        },
     ]
 
   return (
